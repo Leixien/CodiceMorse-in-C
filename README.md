@@ -42,3 +42,14 @@ contesti amatoriali.
 Ovviamente, è possibile estendere la codifica delle singole lettere  parole di
 più lettere semplicemente sostituendo ordinatamente a ciascuna lettera, o cifra,
 la sua codifica — ma mantenendo separate le sequenze di punti e linee tra loro.
+
+Vincoli
+-------
+
+Il testo in ingresso è contenuto su una sola linea ed è composto solo di punti o
+linee; le parole del codice sono separate da un singolo spazio; il testo
+decodificato deve contenere solo lettere maiuscole (terminate da un a-capo,
+senza spazi).
+
+Esempio
+-------
