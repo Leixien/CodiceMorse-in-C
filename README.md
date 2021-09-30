@@ -1,4 +1,4 @@
-Alfabeto Morse: Decodifica
+Alfabeto Morse: Decodifica e Codifica
 ==========================
 
 Descrizione
