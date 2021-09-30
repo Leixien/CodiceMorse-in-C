@@ -1,4 +1,3 @@
-[README.TXT](https://github.com/Leixien/CodiceMorse-in-Java/files/7257802/README.TXT)
 Alfabeto Morse: Decodifica e Codifica
 ==========================
 
