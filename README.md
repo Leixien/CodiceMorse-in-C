@@ -50,6 +50,3 @@ Il testo in ingresso è contenuto su una sola linea ed è composto solo di punti
 linee; le parole del codice sono separate da un singolo spazio; il testo
 decodificato deve contenere solo lettere maiuscole (terminate da un a-capo,
 senza spazi).
-
-Esempio
--------
